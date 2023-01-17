@@ -1,21 +1,21 @@
 README.md
 
-Bienvenue dans ce programme Python utilisant la bibliothèque Turtle.
-Utilisation
+Welcome to this Python program using the Turtle library.
+Usage
 
-Pour utiliser ce programme, vous devez d'abord avoir Python et la bibliothèque Turtle installés sur votre ordinateur.
+To use this program, you must first have Python and the Turtle library installed on your computer.
 
-Une fois le programme lancé, vous serez invité à utiliser les touches du clavier pour contrôler le turtle. Les commandes disponibles sont les suivantes:
+Once the program is running, you will be prompted to use the keyboard keys to control the turtle. The available commands are as follows:
 
-    w : avancer
-    s : reculer
-    a : tourner à gauche
-    d : tourner à droite
-    c : effacer toutes les traces et retourner au point de départ
+    w : move forward
+    s : move backward
+    a : turn left
+    d : turn right
+    c : clear all traces and return to the starting point
 
 Note
 
-Il est important de noter que lorsque vous utilisez la touche "c" pour effacer toutes les traces et retourner au point de départ, toutes les commandes précédemment entrées seront effacées et le turtle retournera à sa position initiale.
+It is important to note that when you use the "c" key to clear all traces and return to the starting point, all previously entered commands will be cleared and the turtle will return to its original position.
 Enjoy
 
-N'hésitez pas à jouer avec les commandes et à explorer les possibilités de la bibliothèque Turtle. Amusez-vous!
+Feel free to play with the commands and explore the possibilities of the Turtle library. Have fun!
