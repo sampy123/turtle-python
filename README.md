@@ -1,4 +1,4 @@
-README.md
+<h1>README.md</h1>
 
 Welcome to this Python program using the Turtle library.
 Usage
@@ -13,7 +13,7 @@ Once the program is running, you will be prompted to use the keyboard keys to co
     d : turn right
     c : clear all traces and return to the starting point
 
-Note
+<h2>Note</h2>
 
 It is important to note that when you use the "c" key to clear all traces and return to the starting point, all previously entered commands will be cleared and the turtle will return to its original position.
 Enjoy
